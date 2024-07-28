@@ -47,16 +47,16 @@
     "bluefox <dogafox@gmail.com>"
   ],
   "devDependencies": {
-    "@iobroker/repochecker": "^2.1.13",
-    "axios": "^1.6.7",
-    "chai": "^4.4.1",
+    "@iobroker/repochecker": "^2.7.2",
+    "axios": "^1.7.2",
+    "chai": "^4.5.0",
     "eslint": "^8.57.0",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "image-size": "^1.1.1",
     "minimist": "^1.2.8",
-    "mocha": "^10.3.0",
+    "mocha": "^10.7.0",
     "node.extend": "^2.0.3",
-    "semver": "^7.6.0",
-    "unzipper": "^0.10.14"
+    "semver": "^7.6.3",
+    "unzipper": "^0.12.2"
   }
 }
